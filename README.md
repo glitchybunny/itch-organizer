@@ -1,2 +1,3 @@
 # itch-organizer
- Advanced itch.io library management tool
+
+An itch.io library management tool to let you manage collections and games in your library
